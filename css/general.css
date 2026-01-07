@@ -27,8 +27,8 @@ html, body, td, th {font:16px/1.3 Poppins, Arial, sans-serif;color:var(--c-text-
 
 table {border-collapse:collapse;}
 table td {padding:5px;}
-a {color:var(--c-sky-600);text-decoration:none;transition: background var(--animation-time) ease, color var(--animation-time) ease, border-bottom-color var(--animation-time) ease, box-shadow var(--animation-time) ease;border-bottom:1px solid rgba(255, 255, 255, 0);}
-a:hover, a:focus {color:var(--c-sky-800);border-color:var(--c-sky-800);text-decoration:none;}
+a {color:var(--c-sky-600);text-decoration:none;transition: background var(--animation-time) ease, color var(--animation-time) ease, border-bottom-color var(--animation-time) ease, box-shadow var(--animation-time) ease;}
+a:hover, a:focus {color:var(--c-sky-800);text-decoration:none;}
 img {border:none;}
 input, select, option, textarea, .form-control, .input-daterange input:first-child {border:none;border-radius:12px;color:var(--c-gray-dark);background:#fff;}
 input, select, option, .form-control {line-height:20px !important;height:48px !important;padding:9px 10px;}
@@ -204,8 +204,8 @@ header > div {position:relative;}
 .header-menu, .header-menu li {margin:0;padding:0;}
 .header-menu li {list-style:none;display:inline-block;}
 .header-menu li:before {display:none;}
-.header-menu a {font-size:14px;line-height:1;font-weight:600;color:var(--c-text-main);display:block;padding:0 5px;margin:0 10px;}
-.header-menu a:hover {color:var(--c-sky-800); }
+.header-menu a {font-size:14px;line-height:1;font-weight:600;color:var(--c-text-main);display:block;padding:5px;margin:0 10px;border-bottom:1px solid rgba(255, 255, 255, 0);}
+.header-menu a:hover {color:var(--c-sky-800);border-color:var(--c-sky-800); }
 
 .footer-menu, .footer-menu li {margin:0;padding:0;}
 .footer-menu li {list-style:none;display:block;}
@@ -268,3 +268,6 @@ footer {background: var(--green-blue-45);}
 @media (max-width:575px) {
     .products .it {padding:16px;}
 }
+
+.logos a img {filter: grayscale(100%);transition: filter var(--animation-time) ease}
+.logos a:hover img {filter: grayscale(0);}
