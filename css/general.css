@@ -13,6 +13,9 @@
     --c-sky-800: #075985;
     --c-sky-800-rgba: rgba(7, 89, 133, 1);
 
+    --c-green-50: #EFFDF5;
+    --c-green-500: #00C16A;
+
     --c-neutral-50: #FAFAFA;
     --c-neutral-100: #F5F5F5;
     --c-neutral-300: #D4D4D4;
@@ -187,13 +190,22 @@ footer {position:relative;}
 
 .tag {
     display: inline-block;
-    padding: 8px 12px;
+    padding: 0 8px;
     border-radius: 8px;
+}
+.tag-special {
+    color: var(--c-sky-700);
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.10);
+    padding: 8px 12px;
+    border-radius: 16px;
+}
+.tag-sky {
     border: 1px solid var(--c-sky-500);
     background: var(--c-sky-50);
-    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.10);
-    font-size: 12px;
-    color: var(--c-sky-700);
+}
+.tag-green {
+    border: 1px solid var(--c-green-500);
+    background: var(--c-green-50);
 }
 
 header {position:fixed;width: 100%;z-index:99;}
@@ -260,14 +272,20 @@ footer {background: var(--green-blue-45);}
 
 .figures {border-radius:16px;background: var(--green-transparent-01);}
 
-.products .it {height:100%;border:1px solid var(--c-neutral-300);border-radius:16px;padding:24px;}
+.products .it {height:100%;border:1px solid var(--c-neutral-300);border-radius:16px;}
 .products .it img {border-radius:8px;box-shadow: -8px 9px 19px 0 rgba(0, 0, 0, 0.12);}
-@media (max-width:991px) {
-    .products .it {padding:20px;}
-}
-@media (max-width:575px) {
-    .products .it {padding:16px;}
-}
 
 .logos a img {filter: grayscale(100%);transition: filter var(--animation-time) ease}
 .logos a:hover img {filter: grayscale(0);}
+
+.solutions {border-radius:24px;background: var(--c-neutral-100);}
+.solutions .tag-img {color:var(--c-sky-700);padding:8px 12px;border-radius:100px;font-size:12px;}
+.solutions .img {background-position: 50% 50%;background-repeat:no-repeat;background-size:cover;height:120px;border-radius:8px;}
+.solutions .img-1 {background-image:url('/img/image-1.png');}
+.solutions .img-2 {background-image:url('/img/image-2.png');}
+.solutions .img-3 {background-image:url('/img/image-3.png');}
+.solutions .img-4 {background-image:url('/img/image-4.png');}
+.solutions .img-5 {background-image:url('/img/image-5.png');border-radius:8px 8px 0 0;margin-bottom:-24px;}
+@media (max-width:991px) {
+    .solutions .img-5 {border-radius:8px;margin-bottom:0;}
+}
