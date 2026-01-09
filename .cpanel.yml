@@ -4,3 +4,5 @@ deployment:
     - export DEPLOYPATH=./../../public_html/
     - rsync -av --progress ./ $DEPLOYPATH --exclude .git
     - chmod 755 ./../../public_html/;
+    - chmod 755 ./../../public_html/tripium/;
+    - cd ./../../public_html/tripium/; /opt/cpanel/ea-php83/root/usr/bin/php -C /opt/cpanel/composer/bin/composer install

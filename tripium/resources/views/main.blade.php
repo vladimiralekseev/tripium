@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tripium</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link type="image/png" rel="icon" href="/favicon.ico">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon:wght@400&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <link href="/css/splide.min.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/general.css" rel="stylesheet" type="text/css"/>
+
+</head>
+
+<body>
+<header class="header-height">
+    <div class="fixed">
+        <div class="d-flex align-items-center justify-content-between header-height">
+            <div><a href="#"><img src="/img/tripium-logo.svg" alt="Tripium"/></a></div>
+            <div>
+                <ul class="header-menu">
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#solutions">Solutions</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">Publications</a></li>
+                </ul>
+            </div>
+            <div>
+                <a href="#contact-us" class="btn btn-outline-secondary fw-semibold">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="wrapper-main">
+    <div class="pb-lg-5 mb-5"></div>
+    <main>
+        <div class="fixed pb-lg-5 mb-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="platform p-3 pe-0 mb-5">
+                        <h1 class="mb-md-5 mb-4">Destination Booking and POS Platform</h1>
+                        <div><small class="tag tag-special tag-sky mb-3">Label: We help create better vacation
+                                experiences.</small></div>
+                        <div class="description mb-md-5 mb-4">
+                            Planning for a vacation can be both time consuming and overwhelming. <b>Tripium</b> helps
+                            the leisure, sports, business, vacation, which makes life more enjoyable for everyone
+                            involved!
+                        </div>
+                        <a href="#contact-us" class="btn btn-primary fw-semibold">Contact Us</a>
+                    </div>
+                    <div class="figures p-3 mb-lg-0 mb-4">
+                        <div class="row align-items-center justify-content-between text-center">
+                            <div class="col-sm-auto col-4">
+                                <div class="up h2 fw-semibold">12+ years</div>
+                                <div class="down">on market</div>
+                            </div>
+                            <div class="col-sm-auto col-4">
+                                <div class="up h2 fw-semibold">175+</div>
+                                <div class="down">B2B partners</div>
+                            </div>
+                            <div class="col-sm-auto col-4">
+                                <div class="up h2 fw-semibold">95+</div>
+                                <div class="down">tailored features</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="platform-slider p-3">
+                        <div class="in py-3 px-lg-5 px-md-4 px-3">
+                            <section class="splide js-platform-slider" aria-label="Splide Basic HTML Example">
+                                <div class="splide__track">
+                                    <ul class="splide__list">
+                                        <li class="splide__slide">
+                                            <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                        </li>
+                                        <li class="splide__slide">
+                                            <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                        </li>
+                                        <li class="splide__slide">
+                                            <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                        </li>
+                                        <li class="splide__slide">
+                                            <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a id="products" class="anchor"></a>
+        <div class="fixed">
+            <div class="pb-lg-5 mb-5">
+                <h2 class="text-center mb-4">
+                    <img src="/icon/product.svg" class="c-filter-sky-800 scale-15 me-2" alt="Products"/> Products
+                </h2>
+                <div class="products row mb-sm-4 mb-3 justify-content-center">
+                    <div class="col-lg-4 col-sm-6 mb-3">
+                        <div class="it p-md-4 p-3">
+                            <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                            <div class="name h3 mb-3">The Destination Platform</div>
+                            <div class="description">End-to-end ticketing, packaging, POS, and schedule management
+                                for hotels, venues, and DMOs.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-3">
+                        <div class="it p-md-4 p-3">
+                            <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                            <div class="name h3 mb-3">Destinations and Tickets Inventory</div>
+                            <div class="description">curated shows, attractions, and activities in supported markets
+                                (e.g., Branson, Gatlinburg, Pigeon Forge), ready to sell.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-3">
+                        <div class="it p-md-4 p-3">
+                            <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                            <div class="name h3 mb-3">White-label solution</div>
+                            <div class="description">custom booking engines that match a partner’s brand, embedded
+                                seamlessly into their website.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <a href="#" class="btn btn-outline-secondary fw-semibold">Learn More</a>
+                </div>
+            </div>
+            <div
+                class="logos d-flex gap-5 flex-wrap align-items-center justify-content-lg-between justify-content-center pb-lg-5 mb-5">
+                <a href="https://ibranson.com" target="_blank">
+                    <img src="/img/ib-logo-30y.svg" alt="iBranson.com"/>
+                </a>
+                <a href="https://bransonmissouri.com/" target="_blank">
+                    <img src="/img/bransonmissouri-logo.png" alt="bransonmissouri.com"/>
+                </a>
+                <a href="https://bransonrestaurants.com/" target="_blank">
+                    <img src="/img/bransonrestaurant-logo.png" alt="bransonrestaurant.com"/>
+                </a>
+                <a href="https://pigeonforgetickets.com/" target="_blank">
+                    <img src="/img/pigeon-logo.png" alt="pigeonforgetickets.com"/>
+                </a>
+                <a href="https://gatlinburgtickets.com/" target="_blank">
+                    <img src="/img/gatlin-logo.png" alt="gatlinburgtickets.com"/>
+                </a>
+            </div>
+        </div>
+        <a id="solutions" class="anchor"></a>
+        <div class="fixed pb-lg-5 mb-5">
+            <div class="solutions p-4">
+                <h2 class="text-center mb-4">
+                    <img src="/icon/solution.svg" class="c-filter-sky-800 scale-15 me-2" alt="Solutions"/> Solutions
+                </h2>
+                <div class="row">
+                    <div class="col-lg-4 mb-lg-0 mb-4">
+                        <div class="d-flex flex-column justify-content-lg-between h-100">
+                            <div>
+                                <h3 class="mb-lg-4 mb-3">Tripium handles the booking and POS behind the scenes</h3>
+                                <div class="mb-lg-4 mb-3">
+                                    We provide an <span class="tag tag-green">easy-to-implement solution.</span>
+                                </div>
+                                <div class="mb-lg-4 mb-3">
+                                    It’s deeply integrated with local destination inventory, specifically designed for
+                                    hospitality partners.
+                                    This allows <span class="tag tag-sky">hotels</span> and <span class="tag tag-sky">DMOs</span>
+                                    to quickly boost ancillary revenue and enhance guest experiences seamlessly.
+                                </div>
+                            </div>
+                            <div>
+                                <a href="#" class="btn btn-outline-secondary fw-semibold">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="offset-xxl-2 offset-xl-1 col-xxl-6 col-xl-7 col-lg-8">
+                        <div class="row mb-4">
+                            <div class="col-5">
+                                <div class="img img-1"></div>
+                            </div>
+                            <div class="col-7">
+                                <div class="img img-2 p-2">
+                                        <span class="tag tag-sky tag-img">
+                                            <img src="/icon/show.svg" alt="Shows" class="c-filter-sky-800"/> Shows
+                                        </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-9">
+                                <div class="img img-3 p-2">
+                                        <span class="tag tag-sky tag-img">
+                                            <img src="/icon/attraction.svg" alt="Attraction" class="c-filter-sky-800"/> Attraction
+                                        </span>
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="img img-4"></div>
+                            </div>
+                        </div>
+                        <div class="img img-5 text-end p-2">
+                                <span class="tag tag-sky tag-img">
+                                    <img src="/icon/hotel.svg" alt="Hotel" class="c-filter-sky-800"/> Hotel
+                                </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="fixed pb-lg-5 mb-5">
+            <h2 class="text-center mb-4">
+                <img src="/icon/features.svg" class="c-filter-sky-800 scale-15 me-2" alt="Features"/> Features
+            </h2>
+            <div class="features">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">Bookings</h3>
+                            <div class="mb-3">Streamline bookings with our integrated system. Effortless and
+                                efficient.
+                            </div>
+                            <img src="/img/feature-1.png" alt="Feature"/>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">User management</h3>
+                            <div class="mb-3">Manage users and roles with ease. Secure and efficient control.</div>
+                            <img src="/img/feature-2.png" alt="Feature"/>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">Reports</h3>
+                            <div class="mb-3">Get detailed insights with custom reports. Track key metrics easily.</div>
+                            <img src="/img/feature-3.png" alt="Feature"/>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">Discounts</h3>
+                            <div class="mb-3">Maximize profits with custom discounts for peak seasons and events.</div>
+                            <img src="/img/feature-1.png" alt="Feature"/>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">Contracts</h3>
+                            <div class="mb-3">Manage contracts with ease. Track terms and renewals efficiently.</div>
+                            <img src="/img/feature-2.png" alt="Feature"/>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
+                            <h3 class="text-center">Vacation packages</h3>
+                            <div class="mb-3">Curated travel packages for unforgettable experiences.</div>
+                            <img src="/img/feature-3.png" alt="Feature"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="explore-all-features text-center p-4">
+                <div class="pb-3">To explore all <b>95+ features</b></div>
+                <a href="#contact-us" class="btn btn-outline-secondary">Contact Us</a>
+            </div>
+        </div>
+        <div class="fixed pb-lg-5 mb-5">
+            <h2 class="text-center mb-4">
+                <img src="/icon/reviews.svg" class="c-filter-sky-800 scale-15 me-2" alt="Reviews"/> Reviews
+            </h2>
+            <section class="splide js-review-slider review-slider">
+                <div class="splide__track">
+                    <ul class="splide__list">
+                        <li class="splide__slide">
+                            <div class="it p-lg-4 p-3">
+                                <div class="up d-flex justify-content-between p-3 mb-lg-4 mb-3">
+                                    <div class="author d-flex justify-content-start gap-2">
+                                        <div><img src="/img/review-1.png" alt=""/></div>
+                                        <div class="description">
+                                            <div class="fw-semibold mb-1">Jeremy & Lacy Stucky</div>
+                                            <div>Owners of Branson's Jellystone Park</div>
+                                        </div>
+                                    </div>
+                                    <div class="stars"><i></i><i></i><i></i><i></i><i></i></div>
+                                </div>
+                                <div class="message">
+                                    We run a campground and offer ticket sales as one of our amenities. We sell
+                                    exclusively through iBranson. We chose this route because of their exceptional
+                                    customer service. They are wonderful people who ensure that our ticket sales go
+                                    smoothly. On the off chance that any issues arise, they will do whatever it takes to
+                                    make it right. Their website is very easy to use and they are always receptive to
+                                    any ideas that might make it even better. We highly recommend their services.
+                                </div>
+                            </div>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="it p-lg-4 p-3">
+                                <div class="up d-flex justify-content-between p-3 mb-lg-4 mb-3">
+                                    <div class="author d-flex justify-content-start gap-2">
+                                        <div><img src="/img/review-2.png" alt=""/></div>
+                                        <div class="description">
+                                            <div class="fw-semibold mb-1">MOLLY DONOHUE</div>
+                                            <div>Vendor Management/Customer Service</div>
+                                        </div>
+                                    </div>
+                                    <div class="stars"><i></i><i></i><i></i><i></i><i></i></div>
+                                </div>
+                                <div class="message">
+                                    Branson has a great selection of shows and attractions to choose from on the Tripium
+                                    POS. I've been using the system for 19 years now and find it most helpful and easy
+                                    to use.
+                                </div>
+                            </div>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="it p-lg-4 p-3">
+                                <div class="up d-flex justify-content-between p-3 mb-lg-4 mb-3">
+                                    <div class="author d-flex justify-content-start gap-2">
+                                        <div><img src="/img/review-1.png" alt=""/></div>
+                                        <div class="description">
+                                            <div class="fw-semibold mb-1">Jeremy & Lacy Stucky</div>
+                                            <div>Owners of Branson's Jellystone Park</div>
+                                        </div>
+                                    </div>
+                                    <div class="stars"><i></i><i></i><i></i><i></i><i></i></div>
+                                </div>
+                                <div class="message">
+                                    I've been with the company for 16 years. I appreciate their innovative solutions,
+                                    their integrity, and how service-minded they are! Always a pleasure to work with
+                                    their committed team members.
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="splide__arrows d-flex align-items-center justify-content-center pt-3">
+                        <button class="splide__arrow--prev p-2">
+                            <img src="/icon/arrow-left.svg" alt="" class="mx-1"/>
+                        </button>
+                        <span class="info">
+                                <span id="review-current-slide"></span> / <span id="review-total-slides"></span>
+                            </span>
+                        <button class="splide__arrow--next p-2">
+                            <img src="/icon/arrow-right.svg" alt="" class="mx-1"/>
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <a id="contact-us" class="anchor"></a>
+        <div class="fixed">
+            <div class="row">
+                <div class="col-lg-6 mb-lg-0 mb-sm-4 mb-3">
+                    <h3 class="h1">
+                        Tripium is your dependable partner <span class="d-block c-neutral-400">you can trust</span>
+                    </h3>
+                    <div>
+                        Backed by decades of hands-on industry expertise and dedicated service, we makes it easier for
+                        destinations to offer great experiences and earn more from their guests.
+                    </div>
+                </div>
+                <div class="offset-xxl-1 col-xxl-5 col-lg-6">
+                    <form>
+                        <div class="mb-3">
+                            <label for="contact-name-input" class="form-label">Contact name <span
+                                    class="required">*</span></label>
+                            <input type="text" class="form-control" id="contact-name-input"
+                                   placeholder="Enter your full name">
+                        </div>
+                        <div class="mb-3">
+                            <label for="email-input" class="form-label">E-mail <span class="required">*</span></label>
+                            <input type="email" class="form-control" id="email-input" placeholder="name@example.com">
+                        </div>
+                        <div class="mb-3">
+                            <label for="business-input" class="form-label">Business <span class="c-neutral-400">(optional)</span></label>
+                            <input type="email" class="form-control" id="business-input"
+                                   placeholder="Specify the type of business">
+                        </div>
+                        <div class="mb-4">
+                            <label for="message-input" class="form-label">Message <span
+                                    class="c-neutral-400">(optional)</span></label>
+                            <input type="email" class="form-control" id="message-input"
+                                   placeholder="Specify the type of business">
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center gap-3">
+                            <div class="agreement">
+                                By clicking "Send", you acknowledge and consent to our Privacy Policy, including the
+                                collection and use of your personal information.
+                            </div>
+                            <div>
+                                <button class="btn btn-primary">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="py-lg-5 py-md-4 py-3">
+        <div class="fixed">
+            <div class="row justify-content-between">
+                <div class="col-xl-auto col-6 order-xl-1 order-1 pt-xl-0 pt-2">
+                    <img src="/img/tripium-logo-white.svg" alt="Tripium" class="footer-logo"/>
+                </div>
+                <div class="col-xl-auto col-12 order-xl-2 order-3 flex-grow-1 px-xl-5 pt-xl-0 pt-4">
+                    <div class="row justify-content-between px-xl-5">
+                        <div class="col-sm-auto col-7 order-sm-1 order-2 text-sm-start text-center">
+                            <div class="mb-2 c-white fw-semibold fs-6 d-sm-block d-none">Products</div>
+                            <ul class="footer-menu">
+                                <li class="mb-2"><a href="#products">The Destination Platform</a></li>
+                                <li class="mb-2"><a href="#products">Destinations and Tickets Inventory</a></li>
+                                <li class="mb-2"><a href="#products">White-label solution</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-auto col-12 order-sm-2 order-1 text-sm-start text-center mb-sm-0 mb-4">
+                            <ul class="footer-menu">
+                                <li class="mb-2 d-sm-block d-inline"><a href="#solutions">Solutions</a></li>
+                                <li class="mb-2 d-sm-block d-inline"><a href="#">About us</a></li>
+                                <li class="mb-2 d-sm-block d-inline"><a href="#">FAQ</a></li>
+                                <li class="mb-2 d-sm-block d-inline"><a href="#">Publications</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-auto col-5 order-sm-3 order-3 text-sm-start text-center">
+                            <ul class="footer-menu">
+                                <li class="mb-2"><a href="#">Branson, MO</a></li>
+                                <li class="mb-2"><a href="#">Gatlinburg, TN</a></li>
+                                <li class="mb-2"><a href="#">Terms & Conditions</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-auto col-6 order-xl-3 order-2 text-end pt-xl-1 pt-2">
+                    <div class="d-inline-block">
+                        <a class="btn btn-white" href="tel:417-335-2610">
+                                <span class=" d-flex align-items-center">
+                                    <img src="/icon/phone.svg" alt="" class="c-filter-sky-800 me-1"/> 417-335-2610
+                                </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+<script src="/js/splide.min.js"></script>
+<script src="/js/main.js?v=1.0"></script>
+
+</body>
+</html>
