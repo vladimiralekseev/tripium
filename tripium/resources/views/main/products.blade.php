@@ -34,7 +34,7 @@
             </div>
         </div>
         <div class="text-center">
-            <a href="#" class="btn btn-outline-secondary fw-semibold">Learn More</a>
+            <a href="#contact-us" class="btn btn-outline-secondary fw-semibold">Learn More</a>
         </div>
     </div>
     <div

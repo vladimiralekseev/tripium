@@ -19,8 +19,8 @@
                             to quickly boost ancillary revenue and enhance guest experiences seamlessly.
                         </div>
                     </div>
-                    <div>
-                        <a href="#" class="btn btn-outline-secondary fw-semibold">Learn More</a>
+                    <div class="text-lg-start text-center">
+                        <a href="#contact-us" class="btn btn-outline-secondary fw-semibold">Learn More</a>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 <header class="header-height">
     <div class="fixed">
         <div class="d-flex align-items-center justify-content-between header-height">
-            <div><a href="#"><img src="/img/tripium-logo.svg" alt="Tripium"/></a></div>
+            <div><a href="/"><img src="/img/tripium-logo.svg" alt="Tripium"/></a></div>
             <div class="header-menu js-header-menu">
                 <ul>
                     <li><a href="#products">Products</a></li>

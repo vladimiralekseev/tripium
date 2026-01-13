@@ -24,8 +24,8 @@
                     </div>
                     <div class="col-sm-auto col-5 order-sm-3 order-3 text-sm-start text-center">
                         <ul class="footer-menu">
-                            <li class="mb-2"><a href="#">Branson, MO</a></li>
-                            <li class="mb-2"><a href="#">Gatlinburg, TN</a></li>
+                            <li class="mb-2"><a href="https://ibranson.com" target="_blank">Branson, MO</a></li>
+                            <li class="mb-2"><a href="https://gatlinburgtickets.com" target="_blank">Gatlinburg, TN</a></li>
                             <li class="mb-2"><a href="#">Terms & Conditions</a></li>
                         </ul>
                     </div>
