@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,7 +16,7 @@
           integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
     <link href="/css/splide.min.css" rel="stylesheet" type="text/css"/>
-    <link href="/css/general.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/general.css?v=2.0" rel="stylesheet" type="text/css"/>
 
     {!! RecaptchaV3::initJs() !!}
 </head>
@@ -40,7 +39,7 @@
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
         crossorigin="anonymous"></script>
 <script src="/js/splide.min.js"></script>
-<script src="/js/main.js?v=1.0"></script>
+<script src="/js/main.js?v=2.0"></script>
 @yield('scripts')
 @stack('scripts')
 </body>
