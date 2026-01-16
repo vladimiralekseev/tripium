@@ -355,3 +355,6 @@ footer {background: var(--green-blue-45);position: relative;z-index: 10}
 .agreement {font-size:12px;}
 
 .anchor {position:relative;top:-100px;}
+
+.publications .it {border-radius: 12px;border:1px solid var(--c-neutral-300);padding:15px;height:100%;}
+.publications .it img {border-radius: 8px;width: 100%;}

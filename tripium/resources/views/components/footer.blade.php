@@ -19,7 +19,7 @@
                             <li class="mb-2 d-sm-block d-inline"><a href="/#solutions">Solutions</a></li>
                             <li class="mb-2 d-sm-block d-inline"><a href="/about-us">About us</a></li>
                             <li class="mb-2 d-sm-block d-inline"><a href="/faq">FAQ</a></li>
-                            <li class="mb-2 d-sm-block d-inline"><a href="#">Publications</a></li>
+                            <li class="mb-2 d-sm-block d-inline"><a href="/publications">Publications</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-auto col-5 order-sm-3 order-3 text-sm-start text-center">
