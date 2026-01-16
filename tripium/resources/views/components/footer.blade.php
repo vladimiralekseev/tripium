@@ -26,7 +26,7 @@
                         <ul class="footer-menu">
                             <li class="mb-2"><a href="https://ibranson.com" target="_blank">Branson, MO</a></li>
                             <li class="mb-2"><a href="https://gatlinburgtickets.com" target="_blank">Gatlinburg, TN</a></li>
-                            <li class="mb-2"><a href="#">Terms & Conditions</a></li>
+                            <li class="mb-2"><a href="/terms-conditions">Terms & Conditions</a></li>
                         </ul>
                     </div>
                 </div>
@@ -34,9 +34,9 @@
             <div class="col-xl-auto col-6 order-xl-3 order-2 text-end pt-xl-1 pt-2">
                 <div class="d-inline-block">
                     <a class="btn btn-white" href="tel:417-335-2610">
-                                <span class=" d-flex align-items-center">
-                                    <img src="/icon/phone.svg" alt="" class="c-filter-sky-800 me-1"/> 417-335-2610
-                                </span>
+                        <span class="d-flex align-items-center">
+                            <img src="/icon/phone.svg" alt="" class="c-filter-sky-800 me-1"/> 417-335-2610
+                        </span>
                     </a>
                 </div>
             </div>

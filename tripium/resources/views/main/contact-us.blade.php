@@ -55,8 +55,8 @@
         </div>
     </div>
 </div>
-@section('scripts')
+@push('scripts')
     <script src="https://unpkg.com/validator@latest/validator.min.js"></script>
     <script src="/js/contact-form.js"></script>
-@endsection
+@endpush
 

@@ -12,3 +12,7 @@
     @include('main.contact-us')
 
 @endsection
+
+@push('scripts')
+    <script src="/js/main.js?v=2.0"></script>
+@endpush
