@@ -11,7 +11,7 @@
     <div class="row publications">
         <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it">
-                <div class="mb-3"><img src="img/Flavor-cover-2021.JPG" loading="lazy" alt=""></div>
+                <div class="mb-3"><img src="/img/flavor-cover-2021.jpg" loading="lazy" alt=""></div>
                 <div class="b01_card_text-2">
                     <h3>The Flavor</h3>
                     <div class="b01_date">Branson</div>
@@ -21,7 +21,7 @@
         </div>
         <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it">
-            <div class="mb-3"><img src="img/Taste-cover-2021.JPG" loading="lazy" alt=""></div>
+            <div class="mb-3"><img src="/img/taste-cover-2021.jpg" loading="lazy" alt=""></div>
             <div class="b01_card_text-2">
                 <h3>The Taste</h3>
                 <div class="b01_date">Branson</div>
@@ -31,7 +31,7 @@
         </div>
         <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it">
-            <div class="mb-3"><img src="img/Dish-cover-2021.JPG" loading="lazy" alt=""></div>
+            <div class="mb-3"><img src="/img/dish-cover-2021.jpg" loading="lazy" alt=""></div>
             <div>
                 <h3>The Dish</h3>
                 <div class="b01_date">Branson</div>
