@@ -55,6 +55,9 @@
         </div>
     </div>
 </div>
+@push('head-scripts')
+    {!! RecaptchaV3::initJs() !!}
+@endpush
 @push('scripts')
     <script src="https://unpkg.com/validator@latest/validator.min.js"></script>
     <script src="/js/contact-form.js"></script>

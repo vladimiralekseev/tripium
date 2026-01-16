@@ -14,6 +14,5 @@
 
     <link href="/css/splide.min.css" rel="stylesheet" type="text/css"/>
     <link href="/css/general.css?v=2.0" rel="stylesheet" type="text/css"/>
-
-    {!! RecaptchaV3::initJs() !!}
+    @stack('head-scripts')
 </head>
