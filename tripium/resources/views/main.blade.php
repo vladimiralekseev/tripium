@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Tripium')
+
 @section('content')
 
     @include('main.platform')

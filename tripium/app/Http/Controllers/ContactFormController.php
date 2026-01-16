@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Http\Requests\ContactFormRequest;
 use App\Mail\EmailMessage;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
 class ContactFormController extends Controller
@@ -21,8 +20,6 @@ class ContactFormController extends Controller
             'data' => $validated
         ]);
     }
-
-
 
     private function sendEmail(ContactFormRequest $request): void
     {

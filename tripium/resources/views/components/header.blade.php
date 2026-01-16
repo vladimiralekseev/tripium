@@ -7,7 +7,7 @@
                 <ul>
                     <li><a href="#products">Products</a></li>
                     <li><a href="#solutions">Solutions</a></li>
-                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="/about-us">About Us</a></li>
                     <li><a href="#">FAQ</a></li>
                     <li><a href="#">Publications</a></li>
                     <li><a href="#contact-us" class="d-md-none d-block">Contact Us</a></li>
