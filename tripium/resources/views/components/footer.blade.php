@@ -9,16 +9,16 @@
                     <div class="col-sm-auto col-7 order-sm-1 order-2 text-sm-start text-center">
                         <div class="mb-2 c-white fw-semibold fs-6 d-sm-block d-none">Products</div>
                         <ul class="footer-menu">
-                            <li class="mb-2"><a href="#products">The Destination Platform</a></li>
-                            <li class="mb-2"><a href="#products">Destinations and Tickets Inventory</a></li>
-                            <li class="mb-2"><a href="#products">White-label solution</a></li>
+                            <li class="mb-2"><a href="/#products">The Destination Platform</a></li>
+                            <li class="mb-2"><a href="/#products">Destinations and Tickets Inventory</a></li>
+                            <li class="mb-2"><a href="/#products">White-label solution</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-auto col-12 order-sm-2 order-1 text-sm-start text-center mb-sm-0 mb-4">
                         <ul class="footer-menu">
-                            <li class="mb-2 d-sm-block d-inline"><a href="#solutions">Solutions</a></li>
-                            <li class="mb-2 d-sm-block d-inline"><a href="#">About us</a></li>
-                            <li class="mb-2 d-sm-block d-inline"><a href="#">FAQ</a></li>
+                            <li class="mb-2 d-sm-block d-inline"><a href="/#solutions">Solutions</a></li>
+                            <li class="mb-2 d-sm-block d-inline"><a href="/about-us">About us</a></li>
+                            <li class="mb-2 d-sm-block d-inline"><a href="/faq">FAQ</a></li>
                             <li class="mb-2 d-sm-block d-inline"><a href="#">Publications</a></li>
                         </ul>
                     </div>
