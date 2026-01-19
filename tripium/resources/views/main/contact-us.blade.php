@@ -6,8 +6,8 @@
                 Tripium is your dependable partner <span class="d-block c-neutral-400">you can trust</span>
             </h3>
             <div>
-                Backed by decades of hands-on industry expertise and dedicated service, we makes it easier for
-                destinations to offer great experiences and earn more from their guests.
+                With decades of hands-on experience and a commitment to service, we help tourism businesses create
+                unforgettable experiences and maximize guest revenue.
             </div>
         </div>
         <div class="offset-xxl-1 col-xxl-5 col-lg-6">

@@ -3,13 +3,11 @@
     <div class="row">
         <div class="col-lg-6">
             <div class="platform p-3 pe-0 mb-5">
-                <h1 class="mb-md-5 mb-4">Destination Booking and POS Platform</h1>
-                <div><small class="tag tag-special tag-sky mb-3">Label: We help create better vacation
-                        experiences.</small></div>
+                <h1 class="mb-md-5 mb-4">We help create better vacation experiences</h1>
+                <div><small class="tag tag-special tag-sky mb-3">Destination Booking and POS Platform</small></div>
                 <div class="description mb-md-5 mb-4">
-                    Planning for a vacation can be both time consuming and overwhelming. <b>Tripium</b> helps
-                    the leisure, sports, business, vacation, which makes life more enjoyable for everyone
-                    involved!
+                    Planning trips and experiences can be overwhelming. <b>Tripium</b> removes the complexity, making it
+                    easy to create smooth, enjoyable vacations from start to finish.
                 </div>
                 <a href="#contact-us" class="btn btn-primary fw-semibold">Contact Us</a>
             </div>
