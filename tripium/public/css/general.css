@@ -198,6 +198,8 @@ footer {position:relative;}
 .c-white {color:#fff;}
 .c-neutral-400 {color:var(--c-neutral-400);}
 
+.border-radius-16 {border-radius: 16px;}
+
 .tag {
     display: inline-block;
     padding: 0 8px;
@@ -324,6 +326,7 @@ footer {background: var(--green-blue-45);position: relative;z-index: 10}
 
 .review-slider {position:relative;}
 .review-slider li {padding:0 15px;}
+.review-slider li:before {display:none;}
 .review-slider .it {border-radius:16px;border:1px solid var(--c-neutral-300);height:100%;}
 .review-slider .up {box-shadow: -4px 5px 19px 0 #00000014;border-radius:8px;font-size:12px;}
 .review-slider .stars {white-space: nowrap;}
@@ -358,3 +361,17 @@ footer {background: var(--green-blue-45);position: relative;z-index: 10}
 
 .publications .it {border-radius: 12px;border:1px solid var(--c-neutral-300);padding:15px;height:100%;}
 .publications .it img {border-radius: 8px;width: 100%;}
+
+.page-label {background:var(--c-green-50);border-radius:100px;border:1px solid var(--c-sky-600);color:var(--c-sky-600);font-weight:bold;display: inline-block;padding:8px 15px;font-size:80%;line-height:1;}
+
+.page-block {
+    border-radius: 16px;
+    background: var(--green-transparent-01);
+}
+
+.faq {border-radius:16px;border:1px solid var(--c-neutral-300);}
+.faq .in {border-radius:16px;background: var(--c-neutral-100);}
+.faq .it {border-top:1px solid var(--c-neutral-300);}
+.faq .it:first-child {border-top:none;}
+
+.about-list .in {border-radius:16px;background: #fff;box-shadow: -4px 5px 19px 0 #00000014;}
