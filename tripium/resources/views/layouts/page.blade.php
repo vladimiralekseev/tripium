@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="mb-5"></div>
 <div class="fixed">
     <div class="px-lg-5">
-        <div class="row">
+        <div class="row mb-lg-5 mb-4">
             <div class="col-xl-8 col-lg-10">
                 <h1 class="mb-3">@yield('title')</h1>
                 @hasSection('up-text')

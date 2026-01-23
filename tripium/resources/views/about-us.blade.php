@@ -6,9 +6,9 @@
 
 @section('page_content')
 
-    <div class="mb-lg-5 mb-4 pb-lg-5 pb-3 mt-5">
+    <div class="mb-lg-5 mb-4 pb-lg-5 pb-3">
         <div class="d-flex row align-content-end">
-            <div class="col-6">
+            <div class="col-lg-6 mb-3">
                 <div class="about-list">
                     <div class="it mb-3">
                         <div class="in p-3">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6">
+            <div class="col-lg-6">
                 <div>
                     <img src="/img/tripium-group.jpg" class="border-radius-16" alt="" />
                 </div>
@@ -40,19 +40,19 @@
 
     <h2 class="fw-bold mb-3">Why Work With Us</h2>
     <div class="about-list row">
-        <div class="it mb-3 col-4">
+        <div class="it mb-3 col-md-4">
             <div class="in p-3 h-100">
                 <h3 class="fw-bold">Core Values</h3>
                 <div>Integrity, Service-oriented, Teamwork, Innovation, Dedication. Our founders bring over 50 years of hands-on experience in hospitality, with a deep understanding of what it takes to serve guests and build lasting partnerships.</div>
             </div>
         </div>
-        <div class="it mb-3 col-4">
+        <div class="it mb-3 col-md-4">
             <div class="in p-3 h-100">
                 <h3 class="fw-bold">Our Team</h3>
                 <div>Most of our team has been here since the beginning and have grown with the company. We look for ways to continually improve and add value. We have a full team of developers working daily to deliver. We take service seriously.</div>
             </div>
         </div>
-        <div class="it mb-3 col-4">
+        <div class="it mb-3 col-md-4">
             <div class="in p-3 h-100">
                 <h3 class="fw-bold">Easy Solutions</h3>
                 <div>Our Destination platform has been responsible for millions in sales and is used daily by guest service agents across numerous hotels. We've developed an incredible system based on continuous feedback for line level staff.</div>
