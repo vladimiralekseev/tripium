@@ -38,13 +38,13 @@
                                     <img src="/img/booking-interface-1.png" alt="Booking interface"/>
                                 </li>
                                 <li class="splide__slide">
-                                    <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                    <img src="/img/booking-interface-2.png" alt="Booking interface"/>
                                 </li>
                                 <li class="splide__slide">
                                     <img src="/img/booking-interface-1.png" alt="Booking interface"/>
                                 </li>
                                 <li class="splide__slide">
-                                    <img src="/img/booking-interface-1.png" alt="Booking interface"/>
+                                    <img src="/img/booking-interface-2.png" alt="Booking interface"/>
                                 </li>
                             </ul>
                         </div>

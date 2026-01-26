@@ -7,7 +7,7 @@
         <div class="products row mb-sm-4 mb-3 justify-content-center">
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="it p-md-4 p-3">
-                    <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                    <img src="/img/product-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
                     <div class="name h3 mb-3">The Destination Platform</div>
                     <div class="description">End-to-end ticketing, packaging, POS, and schedule management
                         for hotels, venues, and DMOs.
@@ -16,7 +16,7 @@
             </div>
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="it p-md-4 p-3">
-                    <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                    <img src="/img/product-2.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
                     <div class="name h3 mb-3">Destinations and Tickets Inventory</div>
                     <div class="description">curated shows, attractions, and activities in supported markets
                         (e.g., Branson, Gatlinburg, Pigeon Forge), ready to sell.
@@ -25,7 +25,7 @@
             </div>
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="it p-md-4 p-3">
-                    <img src="/img/booking-interface-1.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
+                    <img src="/img/product-3.png" alt="Booking interface" class="mb-sm-5 mb-4"/>
                     <div class="name h3 mb-3">White-label solution</div>
                     <div class="description">custom booking engines that match a partner’s brand, embedded
                         seamlessly into their website.
