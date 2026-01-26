@@ -13,6 +13,6 @@
           integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
     <link href="/css/splide.min.css" rel="stylesheet" type="text/css"/>
-    <link href="/css/general.css?v=2.1" rel="stylesheet" type="text/css"/>
+    <link href="/css/general.css?v=2.2" rel="stylesheet" type="text/css"/>
     @stack('head-scripts')
 </head>

@@ -21,7 +21,7 @@
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
         crossorigin="anonymous"></script>
 <script src="/js/splide.min.js"></script>
-<script src="/js/general.js?v=2.1"></script>
+<script src="/js/general.js?v=2.2"></script>
 
 @stack('scripts')
 </body>
