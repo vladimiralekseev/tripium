@@ -31,7 +31,7 @@
         <div class="col-lg-6">
             <div class="platform-slider p-3">
                 <div class="in py-3 px-lg-5 px-md-4 px-3">
-                    <section class="splide js-platform-slider" aria-label="Splide Basic HTML Example">
+                    <section class="splide js-platform-slider">
                         <div class="splide__track">
                             <ul class="splide__list">
                                 <li class="splide__slide">
