@@ -39,7 +39,7 @@
     @endpush
 
     <div class="row publications justify-content-center">
-        <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
+        <div class="col-lg-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it p-3 h-100">
                 <div class="b01_card_text-2">
                     <h3>The Flavor</h3>
@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
+        <div class="col-lg-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it p-3 h-100">
             <div class="b01_card_text-2">
                 <h3>The Taste</h3>
@@ -59,7 +59,7 @@
             </div>
             </div>
         </div>
-        <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
+        <div class="col-lg-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it p-3 h-100">
                 <h3>PlayBranson</h3>
                 <small class="tag tag-special tag-sky mb-3">Entertainer's Exposay</small>
@@ -69,7 +69,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
+        <div class="col-lg-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it p-3 h-100">
                 <h3>Legends in Concert</h3>
                 <small class="tag tag-special tag-sky mb-3">Dick Clark's American Bandstand Theater</small>
