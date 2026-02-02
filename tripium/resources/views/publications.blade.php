@@ -26,9 +26,6 @@
                                 <li class="splide__slide">
                                     <img src="/img/taste-cover-2021.jpg" alt="The Taste"/>
                                 </li>
-                                <li class="splide__slide">
-                                    <img src="/img/dish-cover-2021.jpg" alt="The Dish"/>
-                                </li>
                             </ul>
                         </div>
                     </section>
@@ -41,8 +38,7 @@
         <script src="/js/publications.js?v=2.0"></script>
     @endpush
 
-
-    <div class="row publications">
+    <div class="row publications justify-content-center">
         <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
             <div class="it p-3 h-100">
                 <div class="b01_card_text-2">
@@ -57,16 +53,9 @@
             <div class="b01_card_text-2">
                 <h3>The Taste</h3>
                 <small class="tag tag-special tag-sky mb-3">Branson</small>
-                <div class="b01_paragraph-2">The Taste of Branson is the areas only in-room menu publication that is fund in over 10,000 hotel rooms across the Ozarks. If there isn't a copy in your room ask your front desk to get one for you, or contact us directly.</div>
-            </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
-            <div class="it p-3 h-100">
-            <div>
-                <h3>The Dish</h3>
-                <small class="tag tag-special tag-sky mb-3">Branson</small>
-                <div class="b01_paragraph-2">Our goal with this publication is to provide menu samples and highlights of area restaurants. &nbsp;There are over 200 restaurants in the Branson area just waiting for you to discover.</div>
+                <div class="b01_paragraph-2">
+                    The Taste of Branson is the areas only menu magazine and also  in-room hotel publication that is found in thousands of rooms across the Ozarks.  So look for it in racks around Branson and also in hotel rooms.
+                </div>
             </div>
             </div>
         </div>
@@ -74,7 +63,10 @@
             <div class="it p-3 h-100">
                 <h3>PlayBranson</h3>
                 <small class="tag tag-special tag-sky mb-3">Entertainer's Exposay</small>
-                <div class="b01_paragraph-2">We will entertain you through a mix of celebrity interviews and spotlights on the real people and their extraordinary stories and talents.</div>
+                <div class="b01_paragraph-2">
+                    Branson’s #1 free magazine offering visitors a true scope of all there is to do in Branson.
+                    Play Branson’s tv show will entertain you with a mix of celebrity interviews and spotlights on the real stories and talents behind the entertainers
+                </div>
             </div>
         </div>
         <div class="col-md-4 col-sm-6 mb-lg-4 mb-3">
