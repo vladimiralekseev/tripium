@@ -31,21 +31,18 @@
                 <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
                     <h3 class="text-center">Discounts</h3>
                     <div class="mb-3">Maximize profits with custom discounts for peak seasons and events.</div>
-                    <img src="/img/feature-1.png" alt="Feature"/>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 mb-4">
                 <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
                     <h3 class="text-center">Contracts</h3>
                     <div class="mb-3">Manage contracts with ease. Track terms and renewals efficiently.</div>
-                    <img src="/img/feature-2.png" alt="Feature"/>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 mb-4">
                 <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
                     <h3 class="text-center">Vacation packages</h3>
                     <div class="mb-3">Curated travel packages for unforgettable experiences.</div>
-                    <img src="/img/feature-3.png" alt="Feature"/>
                 </div>
             </div>
         </div>
