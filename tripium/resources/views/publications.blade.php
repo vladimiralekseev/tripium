@@ -29,7 +29,7 @@
                                 <li class="splide__slide">
                                     <img src="/img/publications/play-branson-2025-2026-1.jpg" alt="The Play Branson"/>
                                 </li>
-                                <li class="splide__slide">
+                                <li class="splide__slide d-flex align-items-center">
                                     <img src="/img/publications/the-dining-passport-2025-1.jpg" alt="The Dining Passport"/>
                                 </li>
                             </ul>
