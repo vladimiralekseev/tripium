@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-6">
                 <div>
-                    <img src="/img/tripium-group.jpg" class="border-radius-16" alt="" />
+                    <img src="/img/tripium-team.png" class="border-radius-16" alt="" />
                 </div>
             </div>
         </div>

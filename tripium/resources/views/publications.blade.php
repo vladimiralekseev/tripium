@@ -21,10 +21,16 @@
                         <div class="splide__track">
                             <ul class="splide__list">
                                 <li class="splide__slide">
-                                    <img src="/img/flavor-cover-2021.png" alt="The Flavor"/>
+                                    <img src="/img/publications/flavor-2025-26-1.jpg" alt="The Flavor"/>
                                 </li>
                                 <li class="splide__slide">
-                                    <img src="/img/taste-cover-2021.jpg" alt="The Taste"/>
+                                    <img src="/img/publications/taste-2025-26-1.jpg" alt="The Taste"/>
+                                </li>
+                                <li class="splide__slide">
+                                    <img src="/img/publications/play-branson-2025-2026-1.jpg" alt="The Play Branson"/>
+                                </li>
+                                <li class="splide__slide">
+                                    <img src="/img/publications/the-dining-passport-2025-1.jpg" alt="The Dining Passport"/>
                                 </li>
                             </ul>
                         </div>
