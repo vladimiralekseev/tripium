@@ -15,7 +15,7 @@
             </div>
             <div class="col-md-4 col-sm-6 mb-4">
                 <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
-                    <h3 class="text-center">User management</h3>
+                    <h3 class="text-center">User Management</h3>
                     <div class="mb-3">Manage users and roles with ease. Secure and efficient control.</div>
                     <img src="/img/feature-2.png" alt="Feature"/>
                 </div>
@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-4 col-sm-6 mb-4">
                 <div class="it px-lg-4 px-3 pt-lg-4 pt-3">
-                    <h3 class="text-center">Vacation packages</h3>
+                    <h3 class="text-center">Vacation Packages</h3>
                     <div class="mb-3">Curated travel packages for unforgettable experiences.</div>
                 </div>
             </div>

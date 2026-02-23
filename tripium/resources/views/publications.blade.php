@@ -29,9 +29,6 @@
                                 <li class="splide__slide">
                                     <img src="/img/publications/play-branson-2025-2026-1.jpg" alt="The Play Branson"/>
                                 </li>
-                                <li class="splide__slide d-flex align-items-center">
-                                    <img src="/img/publications/the-dining-passport-2025-1.jpg" alt="The Dining Passport"/>
-                                </li>
                             </ul>
                         </div>
                     </section>
@@ -73,13 +70,6 @@
                     Branson’s #1 free magazine offering visitors a true scope of all there is to do in Branson.
                     Play Branson’s tv show will entertain you with a mix of celebrity interviews and spotlights on the real stories and talents behind the entertainers
                 </div>
-            </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mb-lg-4 mb-3">
-            <div class="it p-3 h-100">
-                <h3>Legends in Concert</h3>
-                <small class="tag tag-special tag-sky mb-3">Dick Clark's American Bandstand Theater</small>
-                <div class="b01_paragraph-2">Internationally recognized as The World’s Greatest Live Tribute Show, Legends in Concert dazzles men, women and children alike with spectacular, fun filled entertainment the whole family will enjoy.</div>
             </div>
         </div>
     </div>

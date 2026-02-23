@@ -11,13 +11,13 @@
                         <ul class="footer-menu">
                             <li class="mb-2"><a href="/#products">The Destination Platform</a></li>
                             <li class="mb-2"><a href="/#products">Destinations and Tickets Inventory</a></li>
-                            <li class="mb-2"><a href="/#products">White-label solution</a></li>
+                            <li class="mb-2"><a href="/#products">White-Label Solution</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-auto col-12 order-sm-2 order-1 text-sm-start text-center mb-sm-0 mb-4">
                         <ul class="footer-menu">
                             <li class="mb-2 d-sm-block d-inline"><a href="/#solutions">Solutions</a></li>
-                            <li class="mb-2 d-sm-block d-inline"><a href="/about-us">About us</a></li>
+                            <li class="mb-2 d-sm-block d-inline"><a href="/about-us">About Us</a></li>
                             <li class="mb-2 d-sm-block d-inline"><a href="/faq">FAQ</a></li>
                             <li class="mb-2 d-sm-block d-inline"><a href="/publications">Publications</a></li>
                         </ul>

@@ -46,25 +46,6 @@
                         </div>
                     </div>
                 </li>
-                <li class="splide__slide">
-                    <div class="it p-lg-4 p-3">
-                        <div class="up d-flex justify-content-between p-3 mb-lg-4 mb-3">
-                            <div class="author d-flex justify-content-start gap-2">
-                                <div><img src="/img/review-1.png" alt=""/></div>
-                                <div class="description">
-                                    <div class="fw-semibold mb-1">Jeremy & Lacy Stucky</div>
-                                    <div>Owners of Branson's Jellystone Park</div>
-                                </div>
-                            </div>
-                            <div class="stars"><i></i><i></i><i></i><i></i><i></i></div>
-                        </div>
-                        <div class="message">
-                            I've been with the company for 16 years. I appreciate their innovative solutions,
-                            their integrity, and how service-minded they are! Always a pleasure to work with
-                            their committed team members.
-                        </div>
-                    </div>
-                </li>
             </ul>
             <div class="splide__arrows d-flex align-items-center justify-content-center pt-3">
                 <button class="splide__arrow--prev p-2">
