@@ -232,8 +232,10 @@ header > div {position:relative;}
 .header-menu ul, .header-menu li {margin:0;padding:0;}
 .header-menu li {list-style:none;display:inline-block;}
 .header-menu li:before {display:none;}
-.header-menu ul a {font-size:14px;line-height:1;font-weight:600;color:var(--c-text-main);display:block;padding:5px;margin:0 10px;border-bottom:1px solid rgba(255, 255, 255, 0);}
-.header-menu ul a:hover {color:var(--c-sky-800);border-color:var(--c-sky-800); }
+.header-menu ul a, .menu-item {font-size:14px;line-height:1;font-weight:600;color:var(--c-text-main);display:block;padding:5px;margin:0 10px;border-bottom:1px solid rgba(255, 255, 255, 0);}
+.header-menu ul a:hover, .menu-item:hover {color:var(--c-sky-800);border-color:var(--c-sky-800); }
+.menu-item {display: inline-block;}
+
 
 .footer-menu, .footer-menu li {margin:0;padding:0;}
 .footer-menu li {list-style:none;display:block;}

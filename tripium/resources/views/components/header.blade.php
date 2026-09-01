@@ -15,6 +15,7 @@
                 <a class="cursor-pointer menu-close js-menu-close"><img src="/icon/x.svg" alt="" /></a>
             </div>
             <div>
+                <a href="https://vendors.tripium.com/" class="menu-item" target="_blank">Log In</a>
                 <a href="/#contact-us" class="btn btn-outline-secondary fw-semibold d-md-inline-block d-none">Contact Us</a>
                 <a class="cursor-pointer menu-open js-menu-open"><img src="/icon/menu.svg" alt="" /></a>
             </div>
