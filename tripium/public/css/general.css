@@ -252,7 +252,8 @@ footer {background: var(--green-blue-45);position: relative;z-index: 10}
 @media (max-width:991px) {
     .scale-15 {transform: scale(1)}
 
-    .header-menu ul a {margin:0 5px;}
+    .header-menu ul a {margin:0 2px;padding:0 3px;}
+    .header-menu ul a, .menu-item {}
     .footer-menu a {font-size:12px;}
     .footer-logo {max-height:38px;}
 

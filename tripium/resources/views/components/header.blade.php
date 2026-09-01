@@ -11,11 +11,12 @@
                     <li><a href="/faq">FAQ</a></li>
                     <li><a href="/publications">Publications</a></li>
                     <li><a href="/#contact-us" class="d-md-none d-block">Contact Us</a></li>
+                    <li><a href="https://vendors.tripium.com/" class="d-md-none d-inline-block" target="_blank">Log In</a></li>
                 </ul>
                 <a class="cursor-pointer menu-close js-menu-close"><img src="/icon/x.svg" alt="" /></a>
             </div>
             <div>
-                <a href="https://vendors.tripium.com/" class="menu-item" target="_blank">Log In</a>
+                <a href="https://vendors.tripium.com/" class="menu-item d-none d-md-inline-block" target="_blank">Log In</a>
                 <a href="/#contact-us" class="btn btn-outline-secondary fw-semibold d-md-inline-block d-none">Contact Us</a>
                 <a class="cursor-pointer menu-open js-menu-open"><img src="/icon/menu.svg" alt="" /></a>
             </div>
